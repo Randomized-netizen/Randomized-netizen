@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Randomized-netizen
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning B.tech CSE
+- 💞️ I’m looking to collaborate on any Project related to CSE
+- 📫 How to reach me - NA
